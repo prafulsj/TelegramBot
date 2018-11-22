@@ -1,2 +1,1 @@
-while True:
-    print ("asdasdas")
+print ("asdasdas")
